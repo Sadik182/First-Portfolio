@@ -4,7 +4,6 @@ body {
 }
 .first-container {
     display: flex;
-    width: 90%;
     background-image:url(images/top-banner.png);
     background-repeat: no-repeat;
     margin-bottom: 100px;
@@ -15,7 +14,7 @@ body {
     
 }
 .half-width img {
-    width: 85%;
+    width: 80%;
     margin-top: 20px;
     margin-left: 25px;
 }
